@@ -1,0 +1,3 @@
+useDynLib(elec.strat)
+
+export(makeStratObj, is.strat.elec.data, strat.elec.data, getEbsMargin, getQ, first.r, next.r, propSizes, LKPBound, eqValBound, withReplaceBound, BaB, runBaB, get.first.r.samp, get.next.r.samp, get.prop.samp, optStrat)
